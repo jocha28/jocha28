@@ -1,96 +1,110 @@
-<!-- Banner -->
+<!-- Header GIF -->
 <p align="center">
-  <img src="https://i.imgur.com/5tzBf8U.gif" width="100%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
 </p>
 
 <h1 align="center">Hi, I'm <strong>José HOUNNAHO</strong> 👋</h1>
+<p align="center">Développeur Full-Stack • Spécialiste Odoo • Passionné Tech</p>
+
+---
+
+## 🎯 Quick Intro  
+Développeur informatique passionné, basé au Bénin.  
+Je design des solutions propres, scalables et modernes avec un vrai souci du détail.  
+Toujours en mode amélioration continue & hungry to learn. 🚀  
+
+---
+
+## 🏅 Badges & Contacts
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=1AF7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Odoo+Developer+%28v17+-+v19%29;Tech+Enthusiast;Always+Learning+New+Things" />
+  <!-- GitHub badge -->
+  <a href="https://github.com/jocha28">
+    <img src="https://img.shields.io/badge/GitHub-jocha28-black?style=for-the-badge&logo=github" />
+  </a>
+
+  <!-- LinkedIn badge (à remplir si tu veux que je le génère) -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <!-- Email badge (à mettre si tu veux l'afficher) -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/Email-Available-red?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
 ---
 
-## 🌍 **About Me**
+## 🚀 Tech Stack
 
-Passionné par le développement informatique, j’adore concevoir des solutions propres, utiles et performantes.  
-Toujours en évolution, toujours en quête de nouveaux défis.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,js,vue,react,html,css,bootstrap,tailwind,postgresql,docker,linux,git,odoo&theme=dark" />
+</p>
 
-- 💻 Développeur informatique basé au **Bénin**  
-- ⚙️ Expérience solide en **back-end**, **front-end**, et **Odoo 17/18/19**  
-- 🎮 Fan de tech, jeux vidéo & software engineering  
-- 📚 Curieux, autonome et orienté solution  
+**Compétences clés :**
+- Python, PHP, JavaScript  
+- Vue.js, React, Tailwind, Bootstrap  
+- PostgreSQL & optimisation DB  
+- Docker, Linux  
+- Odoo **17**, **18**, **19** (modules custom, intégrations, backend)
 
 ---
 
-## 🛠️ **Tech Stack & Tools**
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,js,vue,react,html,css,tailwind,bootstrap,postgresql,git,docker,linux,odoo,vscode" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jocha28&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jocha28&theme=vue-dark&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jocha28&layout=compact&theme=vue-dark&hide_border=true" />
 </p>
 
 ---
 
-## ✨ **Badges**
+## 🔥 Animated Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Framework-Odoo-blueviolet?style=for-the-badge&logo=odoo" />
-  <img src="https://img.shields.io/badge/FrontEnd-React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
-  <img src="https://img.shields.io/badge/FrontEnd-Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=fff" />
-  <img src="https://img.shields.io/badge/DB-PostgreSQL-31648C?style=for-the-badge&logo=postgresql" />
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="400" />
 </p>
 
 ---
 
-## 🔥 **GitHub Stats**
+## 🛠️ Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jocha28&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jocha28&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jocha28&theme=react-dark&hide_border=true" />
-</p>
+- ✔️ Odoo Modules : Contract Management, Hospital Management, POS Extensions  
+- ✔️ Scripts Python d'automatisation  
+- ✔️ Projets Web (React, Vue.js)  
+- ✔️ Modules d’import CSV pour la comptabilité  
+- ✔️ Intégrations API & solutions full-stack  
 
 ---
 
-## 🌱 **Currently Exploring**
+## 🌱 Currently Exploring
 
-- Full-stack development (React, Vue, Tailwind)  
-- Développement avancé Odoo (v17 à v19)  
-- PostgreSQL optimization  
-- Automatisation & intégrations API  
-- Docker workflows  
-
----
-
-## 🏆 **Projects**
-
-*(Tu pourras ajouter tes projets ici quand tu pushes ton code)*
-
-- ✔️ Module Odoo : Contract Management  
-- ✔️ Module Odoo : Hospital Management  
-- ✔️ POS Extension & modules custom  
-- ✔️ Scripts Python d’automatisation  
-- ✔️ Mini apps front-end (React / Vue.js)
+- Odoo 19 (nouvelles API)  
+- Tailwind CSS + React  
+- Architectures backend avancées  
+- Automatisation & CI/CD  
+- Dockerization pro  
 
 ---
 
-## 🤝 **Let's Connect**
+## 📬 Let's Connect
 
-<p align="center">
-  <a href="https://github.com/jocha28"><img src="https://img.shields.io/badge/GitHub-jocha28-181717?style=for-the-badge&logo=github" /></a>
-  <a><img src="https://img.shields.io/badge/Email-Add%20Yours-red?style=for-the-badge&logo=gmail" /></a>
-  <a><img src="https://img.shields.io/badge/LinkedIn-Optional-blue?style=for-the-badge&logo=linkedin" /></a>
-</p>
+- 🌍 GitHub : https://github.com/jocha28  
+- 📧 Email : *(ajoute-le si tu veux)*  
+- 💼 LinkedIn : *(je peux te générer un badge personnalisé si tu me donnes le lien)*  
 
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/hWgZ4fD.gif" width="200px" />
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="250" />
 </p>
 
-<p align="center"><strong>Thanks for visiting! 🚀  
-Always learning, always building.</strong></p>
+<p align="center">
+<strong>Thanks for visiting! 🚀  
+Always learning, always building.</strong>
+</p>
