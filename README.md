@@ -1,8 +1,7 @@
-# Yo, I'm Jocha 👋
+# Hi, I'm José HOUNNAHO 👋
 
-Dév le jour, rappeur la nuit.  
-Inventeur du **Rap Dev** — je mélange code, émotions et real life vibes pour créer des projets propres comme mes couplets.  
-Bienvenue sur mon espace GitHub 🌒💻🔥
+Développeur informatique passionné, curieux et toujours en quête d’amélioration.  
+J’aime créer des solutions utiles, propres et scalables, tout en explorant continuellement de nouvelles technologies.
 
 ![jocha28's Stats](https://github-readme-stats.vercel.app/api?username=jocha28&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
@@ -10,53 +9,48 @@ Bienvenue sur mon espace GitHub 🌒💻🔥
 
 ## 🚀 About Me
 
-- 🧑‍💻 Développeur informatique basé au Bénin  
-- 🎤 Rappeur sombre & percutant — créateur du style **Rap Dev**  
-- ⚽ Fan de foot, jeux vidéo & coding non-stop  
-- 💡 Toujours en train de builder, peu importe l’heure
+- 💻 Développeur informatique basé au Bénin  
+- ⚙️ Expérience en développement back-end, front-end et Odoo  
+- 🧩 Esprit logique, orienté solution  
+- 🎮 Passionné de tech, jeux vidéo & software engineering  
+- 📚 Toujours en train d'apprendre pour level up mes skills
 
 ---
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,bootstrap,react,postgresql,git,docker,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,bootstrap,react,postgresql,git,docker,linux,odoo)](https://skillicons.dev)
 
 ---
 
 ## 🌱 Currently Exploring
 
-- React & Tailwind pour des interfaces clean  
-- Backend solide avec Django / Odoo  
-- Automatisation & intégrations cloud  
-- Architecture logicielle plus pro pour mes projets clients
+- React & Tailwind CSS  
+- Développement d’applications web full-stack  
+- Odoo 18 (modules personnalisés)  
+- Optimisation de bases de données PostgreSQL  
+- Automatisation & intégrations API
 
 ---
 
-## 🏆 Projects & Stuff
+## 🏆 Projects
 
-*(Ajoute ici tes projets GitHub dès que t’en pushes quelques-uns)*  
-Exemples :  
-- 🔗 Module Odoo – Contract Management  
-- 🎮 Mini-Game JS  
-- 📱 API / Backends persos  
-- ⚙️ Script d’automatisation
+*(Tu pourras ajouter tes repos ici dès que tu en pushes quelques-uns)*
 
----
-
-## 🎤 Rap Dev — My Vibe
-
-J’écris aussi des morceaux courts & sombres inspirés de ma vie de dev.  
-Album & concepts en cours 👀🔥
+- ✔️ Modules Odoo : Contract Management / Hospital Management / POS extension  
+- ✔️ Scripts Python d'automatisation  
+- ✔️ Applications web & mini projets front-end  
+- ✔️ Modules d’import CSV pour la comptabilité
 
 ---
 
-## 📬 Contact
+## 📬 Get in Touch
 
 - 🌍 GitHub: https://github.com/jocha28  
-- 📧 Email (si tu veux)  
-- 💼 LinkedIn (si tu veux aussi)
+- 📧 Email (optionnel, si tu veux l’ajouter)
+- 💼 LinkedIn (optionnel aussi)
 
 ---
 
-Thanks for passing by ✨  
-Let’s build & cook greatness together ⚡
+Thanks for visiting! 🚀  
+Always learning, always building.
