@@ -1,109 +1,125 @@
 <!-- TITLE -->
-<h1 align="center">✨ José HOUNNAHO ✨</h1>
-<h3 align="center">Full-Stack Developer • Odoo Expert • ML/DL Learner 🚀</h3>
+<h1 align="center" style="color:#EAEAEA;">🌙 José HOUNNAHO</h1>
+<h3 align="center" style="color:#A0A0A0;">Full-Stack Developer • Odoo Expert • ML/DL Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="240" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
 </p>
 
 ---
 
-<!-- BADGES -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Pro-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Django-Expert-092E20?style=for-the-badge&logo=django" />
-  <img src="https://img.shields.io/badge/DRF-API-red?style=for-the-badge&logo=django" />
-  <img src="https://img.shields.io/badge/Odoo-17/18/19-714B67?style=for-the-badge&logo=odoo" />
-  <img src="https://img.shields.io/badge/ML-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow" />
-  <img src="https://img.shields.io/badge/DL-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch" />
-  <img src="https://img.shields.io/badge/Linux-Master-000?style=for-the-badge&logo=linux" />
+# 🖤 About Me
+
+<p align="center" style="color:#CFCFCF; max-width:650px; margin:auto;">
+Développeur full-stack basé au Bénin, passionné par la création d'applications propres,
+scalables et intelligentes.  
+Toujours entre backend, Odoo, data science et exploration de nouveaux outils.
 </p>
 
 ---
 
-## 💫 About Me
+# ⚙️ Tech Stack (Dark Mode)
 
+### 💻 Languages & Tools
 <p align="center">
-  Développeur basé au 🇧🇯 Bénin, passionné par la création d'apps utiles,  
-  l’optimisation, l’automatisation et les systèmes intelligents.  
-  Curieux, pragmatique et toujours en quête de nouvelles compétences.
+  <img src="https://skillicons.dev/icons?i=python,js,php,html,css,postgresql,git,linux,docker&theme=dark" />
 </p>
 
+### 🧩 Frameworks
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRal6P4fJLO/giphy.gif" width="220">
+  <img src="https://skillicons.dev/icons?i=django,fastapi,react,bootstrap,tailwind&theme=dark" />
 </p>
 
----
-
-## 🚀 Tech Stack & Tools
-
-<h3 align="center">💻 Core Skills</h3>
+### 🟣 Odoo (17 / 18 / 19)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,php,html,css,postgresql,git,linux,docker" />
+  <img src="https://img.shields.io/badge/Odoo-17/18/19-4D3A4C?style=for-the-badge&logo=odoo&logoColor=white" />
 </p>
 
-<h3 align="center">🧩 Frameworks</h3>
+### 🤖 ML / DL
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,fastapi,react,bootstrap,tailwind" />
-</p>
-
-<h3 align="center">📦 Odoo</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Odoo-17/18/19-714B67?style=for-the-badge&logo=odoo" />
-</p>
-
-<h3 align="center">🤖 Machine Learning / Deep Learning</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
 </p>
 
 ---
 
-## 🌱 Currently Exploring
-- Odoo 18/19 (modules avancés)  
-- Django + DRF (API scalable)  
-- React + Tailwind  
-- TensorFlow / PyTorch (ML & DL)  
-- Data engineering & automatisations  
-- PostgreSQL optimization  
-
----
-
-## 🏆 Featured Projects
-
-- ⚙️ **Odoo Contract Management** — full workflow  
-- 🏥 **Hospital Management** — module Odoo complet  
-- 🧾 **POS A4 Print Extension**  
-- 📊 **Import CSV comptable automatisé**  
-- 🧪 **Scripts Python de data & automations**  
-- 🌐 **Mini apps web Full-Stack (React / Django)**  
-
----
-
-## 📊 GitHub Stats
+# 🕰️ Timeline Pro (Dark Mode)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jocha28&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jocha28&theme=vue-dark&hide_border=true" height="165" />
-</p>
+  
+<!-- TIMELINE CONTAINER -->
+<div style="max-width:700px;">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/rfksVQ8Yhf7Li/giphy.gif" width="260" />
-</p>
+<!-- ITEM -->
+<div style="border-left:2px solid #444; padding-left:15px; margin-bottom:25px;">
+  <h3 style="color:#EAEAEA;">2025 — Aujourd'hui</h3>
+  <p style="color:#A0A0A0;">🔧 Développeur Full-Stack & Expert Odoo (Modules custom avancés)</p>
+</div>
 
----
+<!-- ITEM -->
+<div style="border-left:2px solid #444; padding-left:15px; margin-bottom:25px;">
+  <h3 style="color:#EAEAEA;">2024 — 2025</h3>
+  <p style="color:#A0A0A0;">💻 Django & DRF — Systèmes API, automatisation & intégration</p>
+</div>
 
-## 📬 Contact
+<!-- ITEM -->
+<div style="border-left:2px solid #444; padding-left:15px; margin-bottom:25px;">
+  <h3 style="color:#EAEAEA;">2023 — 2024</h3>
+  <p style="color:#A0A0A0;">📊 ML & Deep Learning — Exploration TensorFlow, PyTorch</p>
+</div>
 
-<p align="center">
-  🌍 <a href="https://github.com/jocha28">github.com/jocha28</a>  
-  <br>
-  📧 Email & LinkedIn (ajoute si tu veux)
+<!-- ITEM -->
+<div style="border-left:2px solid #444; padding-left:15px; margin-bottom:25px;">
+  <h3 style="color:#EAEAEA;">2022 — 2023</h3>
+  <p style="color:#A0A0A0;">🌐 Début dans le développement web — HTML, CSS, JS, PHP</p>
+</div>
+
+</div>
+
 </p>
 
 ---
 
-<p align="center"><strong>Thanks for stopping by — always learning, always building. 🚀</strong></p>
+# 🚀 Projects Highlights
+
+### 🔹 Odoo
+- Contract Management (full workflow)
+- Hospital Management
+- POS Extension (Print A4)
+- Import CSV Comptable (Accounting Automation)
+
+### 🔹 Web / API
+- Django + DRF Systems  
+- React interfaces  
+- Automatisations Python  
+
+### 🔹 Data Science
+- Data preprocessing  
+- Classification / Regression  
+- TensorFlow & PyTorch experiments  
+
+---
+
+# 📊 GitHub Stats (Dark Theme)
+
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="250" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jocha28&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jocha28&theme=tokyonight&hide_border=true" height="165" />
 </p>
+
+---
+
+# 📬 Contact
+
+<p align="center" style="color:#CFCFCF;">
+🌍 <a href="https://github.com/jocha28" style="color:#6CA6FF;">github.com/jocha28</a>  
+<br>
+📧 Email & LinkedIn (à ajouter si tu veux)
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="220" />
+</p>
+
+---
+
+<p align="center" style="color:#A0A0A0;"><i>✨ Dark, clean & professional — Always learning, always building ✨</i></p>
