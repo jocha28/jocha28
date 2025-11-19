@@ -33,13 +33,14 @@ Toujours entre backend, Odoo, data science et exploration de nouveaux outils.
 
 ---
 
-#  GitHub Stats 
+# 📊 GitHub Stats 
 
 <p align="center">
- 
+  <img src="https://github-readme-stats.vercel.app/api?username=jocha28&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="165" />
+  <div align="center">
   <img 
-  src="https://streak-stats.demolab.com?user=jocha28&theme=tokyonight&hide_border=true" 
-  height="180" 
-/>
+    src="https://streak-stats.demolab.com/?user=jocha28&theme=tokyonight&hide_border=true" 
+    height="200"
+  />
+</div>
 
-</p>
