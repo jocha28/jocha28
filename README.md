@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/5tzBf8U.gif" width="100%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm <strong>José HOUNNAHO</strong> 👋</h1>
@@ -68,8 +68,6 @@ Toujours en évolution, toujours en quête de nouveaux défis.
 
 ## 🏆 **Projects**
 
-*(Tu pourras ajouter tes projets ici quand tu pushes ton code)*
-
 - ✔️ Module Odoo : Contract Management  
 - ✔️ Module Odoo : Hospital Management  
 - ✔️ POS Extension & modules custom  
@@ -89,7 +87,7 @@ Toujours en évolution, toujours en quête de nouveaux défis.
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/hWgZ4fD.gif" width="200px" />
+  <img src="https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif" width="180px" />
 </p>
 
 <p align="center"><strong>Thanks for visiting! 🚀  
