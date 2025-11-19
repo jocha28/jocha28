@@ -33,49 +33,24 @@ Toujours entre backend, Odoo, data science et exploration de nouveaux outils.
 
 ---
 
-# GitHub Stats
+# GitHub Stats 
 
-<!-- Section Container -->
-<div align="center">
+<p align="center">
+  <!-- Main Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=jocha28&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="165" />
   
-  <!-- TOP ROW : Main Stats + Streak -->
-  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px; margin-bottom:25px;">
+  <!-- Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jocha28&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
-    <!-- Global Stats -->
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=jocha28&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" 
-      height="180"
-    />
+<!-- More Stats Section -->
+<p align="center">
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jocha28&theme=tokyonight&layout=compact&hide_border=true" height="150" />
 
-    <!-- Streak -->
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=jocha28&theme=tokyonight&hide_border=true" 
-      height="180"
-    />
-  </div>
+  <!-- Contribution Graph -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jocha28&theme=tokyonight" height="150" />
 
-  <!-- SECOND ROW : Langs + Productive Time -->
-  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px; margin-bottom:25px;">
-
-    <!-- Most Used Languages -->
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jocha28&theme=tokyonight&layout=compact&hide_border=true" 
-      height="150"
-    />
-
-    <!-- Productive Hours -->
-    <img 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jocha28&theme=tokyonight" 
-      height="150"
-    />
-  </div>
-
-  <!-- FULL WIDTH : Profile Details -->
-  <div style="margin-top:20px;">
-    <img 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jocha28&theme=tokyonight" 
-      width="100%"
-    />
-  </div>
-
-</div>
+  <!-- Profile Summary -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jocha28&theme=tokyonight" />
+</p>
