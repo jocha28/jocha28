@@ -1,5 +1,5 @@
 <!-- TITLE -->
-<h1 align="center" style="color:#EAEAEA;">🌙 José HOUNNAHO</h1>
+<h1 align="center" style="color:#EAEAEA;">🌙 José HOUNNAHO 🦉</h1>
 <h3 align="center" style="color:#A0A0A0;">Full-Stack Developer • Odoo Developer • ML/DL Developer</h3>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 ---
 
-# 🖤 About Me
+# About Me
 
 <p align="center" style="color:#CFCFCF; max-width:650px; margin:auto;">
 Développeur informatique basé au Bénin, passionné par la création d'applications propres,
@@ -18,7 +18,7 @@ Toujours entre backend, Odoo, data science et exploration de nouveaux outils.
 
 ---
 
-# ⚙️ Tech Stack
+# Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,php,html,css,postgresql,git,linux,docker,django,fastapi,react,bootstrap,tailwind,tensorflow,pytorch&theme=dark" />
@@ -30,7 +30,7 @@ Toujours entre backend, Odoo, data science et exploration de nouveaux outils.
 
 ---
 
-# 📊 GitHub Stats 
+# GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jocha28&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="165" />
