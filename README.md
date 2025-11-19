@@ -45,9 +45,6 @@ Toujours entre backend, Odoo, data science et exploration de nouveaux outils.
 
 <!-- More Stats Section -->
 <p align="center">
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jocha28&theme=tokyonight&layout=compact&hide_border=true" height="150" />
-
   <!-- Contribution Graph -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jocha28&theme=tokyonight" height="150" />
 
