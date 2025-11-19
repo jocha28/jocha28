@@ -6,39 +6,47 @@
 <h1 align="center">Hi, I'm <strong>José HOUNNAHO</strong> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=1AF7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Odoo+Developer+%28v17+-+v19%29;Tech+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=1AF7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Odoo+Developer+%28v17+-+v19%29;Django+%26+DRF+Developer;Machine+Learning+%26+Deep+Learning;Always+Learning+New+Things" />
 </p>
 
 ---
 
 ## 🌍 **About Me**
 
-Passionné par le développement informatique, j’adore concevoir des solutions propres, utiles et performantes.  
-Toujours en évolution, toujours en quête de nouveaux défis.
+Développeur informatique passionné, motivé par la création de solutions fiables, scalables et centrées sur l’utilisateur.  
+Toujours à l’affût de nouveaux concepts, frameworks et challenges techniques.
 
-- 💻 Développeur informatique basé au **Bénin**  
-- ⚙️ Expérience solide en **back-end**, **front-end**, et **Odoo 17/18/19**  
-- 🎮 Fan de tech, jeux vidéo & software engineering  
-- 📚 Curieux, autonome et orienté solution  
+- 💻 Basé au **Bénin**  
+- ⚙️ Full-stack developer (Front / Back / API)  
+- 🧠 Expérience en **Django, DRF, Machine Learning & Deep Learning**  
+- 🛠️ Spécialisation Odoo **17 / 18 / 19**  
+- 🎮 Passionné de tech, jeux vidéo & software engineering  
 
 ---
 
 ## 🛠️ **Tech Stack & Tools**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,js,vue,react,html,css,tailwind,bootstrap,postgresql,git,docker,linux,odoo,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,php,js,vue,react,html,css,tailwind,bootstrap,django,postgresql,git,docker,linux,odoo,vscode" />
 </p>
+
+**+ Compétences IA :**  
+- 🧠 Machine Learning (Scikit-Learn, Pandas, NumPy)  
+- 🤖 Deep Learning (TensorFlow, Keras, PyTorch)  
+- 📊 Data visualization (Matplotlib, Seaborn)  
 
 ---
 
 ## ✨ **Badges**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/DRF-Django%20Rest%20Framework-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-0099ff?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-orange?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Framework-Odoo-blueviolet?style=for-the-badge&logo=odoo" />
-  <img src="https://img.shields.io/badge/FrontEnd-React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
-  <img src="https://img.shields.io/badge/FrontEnd-Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=fff" />
-  <img src="https://img.shields.io/badge/DB-PostgreSQL-31648C?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
+  <img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=fff" />
 </p>
 
 ---
@@ -58,21 +66,26 @@ Toujours en évolution, toujours en quête de nouveaux défis.
 
 ## 🌱 **Currently Exploring**
 
-- Full-stack development (React, Vue, Tailwind)  
-- Développement avancé Odoo (v17 à v19)  
-- PostgreSQL optimization  
-- Automatisation & intégrations API  
-- Docker workflows  
+- Django & Django REST Framework (clean APIs, auth, permissions)  
+- Machine Learning (Regression, Classification, Clustering)  
+- Deep Learning (CNN, RNN, NLP models)  
+- Optimisation Odoo (17, 18, 19)  
+- React / Vue + Tailwind CSS  
+- Dockerisation & CI/CD workflow  
+- PostgreSQL performance tuning  
 
 ---
 
 ## 🏆 **Projects**
 
-- ✔️ Module Odoo : Contract Management  
-- ✔️ Module Odoo : Hospital Management  
-- ✔️ POS Extension & modules custom  
+- ✔️ Modules Odoo : Contract Management  
+- ✔️ Hospital Management System (Odoo)  
+- ✔️ POS Extension & custom modules (Odoo v17–v19)  
+- ✔️ Backend APIs avec Django & DRF  
+- ✔️ Modèles ML (prédiction, analyse, data processing)  
+- ✔️ App Deep Learning (image classification / NLP)  
 - ✔️ Scripts Python d’automatisation  
-- ✔️ Mini apps front-end (React / Vue.js)
+- ✔️ Mini apps front-end (React, Vue.js)
 
 ---
 
