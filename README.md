@@ -1,6 +1,6 @@
 <!-- TITLE -->
 <h1 align="center" style="color:#EAEAEA;">🌙 José HOUNNAHO</h1>
-<h3 align="center" style="color:#A0A0A0;">Full-Stack Developer • Odoo Develpper • ML/DL Developer</h3>
+<h3 align="center" style="color:#A0A0A0;">Full-Stack Developer • Odoo Developer • ML/DL Developer</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
@@ -18,26 +18,14 @@ Toujours entre backend, Odoo, data science et exploration de nouveaux outils.
 
 ---
 
-# ⚙️ Tech Stack (Dark Aesthetic)
+# ⚙️ Tech Stack (Dark Aesthetic - Compact)
 
-### 💻 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,php,html,css,postgresql,git,linux,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,php,html,css,postgresql,git,linux,docker,django,fastapi,react,bootstrap,tailwind,tensorflow,pytorch&theme=dark" />
 </p>
 
-### 🧩 Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=django,fastapi,react,bootstrap,tailwind&theme=dark" />
-</p>
-
-### 🟣 Odoo (17 / 18 / 19)
 <p align="center">
   <img src="https://img.shields.io/badge/Odoo-17/18/19-4D3A4C?style=for-the-badge&logo=odoo&logoColor=white" />
-</p>
-
-### 🤖 ML & Deep Learning
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
 </p>
 
 ---
