@@ -18,7 +18,7 @@ Toujours entre backend, Odoo, data science et exploration de nouveaux outils.
 
 ---
 
-# ⚙️ Tech Stack (Dark Mode)
+# ⚙️ Tech Stack (Dark Aesthetic)
 
 ### 💻 Languages & Tools
 <p align="center">
@@ -35,67 +35,10 @@ Toujours entre backend, Odoo, data science et exploration de nouveaux outils.
   <img src="https://img.shields.io/badge/Odoo-17/18/19-4D3A4C?style=for-the-badge&logo=odoo&logoColor=white" />
 </p>
 
-### 🤖 ML / DL
+### 🤖 ML & Deep Learning
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
 </p>
-
----
-
-# 🕰️ Timeline Pro (Dark Mode)
-
-<p align="center">
-  
-<!-- TIMELINE CONTAINER -->
-<div style="max-width:700px;">
-
-<!-- ITEM -->
-<div style="border-left:2px solid #444; padding-left:15px; margin-bottom:25px;">
-  <h3 style="color:#EAEAEA;">2025 — Aujourd'hui</h3>
-  <p style="color:#A0A0A0;">🔧 Développeur Full-Stack & Expert Odoo (Modules custom avancés)</p>
-</div>
-
-<!-- ITEM -->
-<div style="border-left:2px solid #444; padding-left:15px; margin-bottom:25px;">
-  <h3 style="color:#EAEAEA;">2024 — 2025</h3>
-  <p style="color:#A0A0A0;">💻 Django & DRF — Systèmes API, automatisation & intégration</p>
-</div>
-
-<!-- ITEM -->
-<div style="border-left:2px solid #444; padding-left:15px; margin-bottom:25px;">
-  <h3 style="color:#EAEAEA;">2023 — 2024</h3>
-  <p style="color:#A0A0A0;">📊 ML & Deep Learning — Exploration TensorFlow, PyTorch</p>
-</div>
-
-<!-- ITEM -->
-<div style="border-left:2px solid #444; padding-left:15px; margin-bottom:25px;">
-  <h3 style="color:#EAEAEA;">2022 — 2023</h3>
-  <p style="color:#A0A0A0;">🌐 Début dans le développement web — HTML, CSS, JS, PHP</p>
-</div>
-
-</div>
-
-</p>
-
----
-
-# 🚀 Projects Highlights
-
-### 🔹 Odoo
-- Contract Management (full workflow)
-- Hospital Management
-- POS Extension (Print A4)
-- Import CSV Comptable (Accounting Automation)
-
-### 🔹 Web / API
-- Django + DRF Systems  
-- React interfaces  
-- Automatisations Python  
-
-### 🔹 Data Science
-- Data preprocessing  
-- Classification / Regression  
-- TensorFlow & PyTorch experiments  
 
 ---
 
@@ -108,18 +51,8 @@ Toujours entre backend, Odoo, data science et exploration de nouveaux outils.
 
 ---
 
-# 📬 Contact
-
-<p align="center" style="color:#CFCFCF;">
-🌍 <a href="https://github.com/jocha28" style="color:#6CA6FF;">github.com/jocha28</a>  
-<br>
-📧 Email & LinkedIn (à ajouter si tu veux)
-</p>
-
 <p align="center">
   <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="220" />
 </p>
-
----
 
 <p align="center" style="color:#A0A0A0;"><i>✨ Dark, clean & professional — Always learning, always building ✨</i></p>
