@@ -11,14 +11,14 @@
 # 🖤 About Me
 
 <p align="center" style="color:#CFCFCF; max-width:650px; margin:auto;">
-Développeur full-stack basé au Bénin, passionné par la création d'applications propres,
+Développeur informatique basé au Bénin, passionné par la création d'applications propres,
 scalables et intelligentes.  
 Toujours entre backend, Odoo, data science et exploration de nouveaux outils.
 </p>
 
 ---
 
-# ⚙️ Tech Stack (Dark Aesthetic - Compact)
+# ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,php,html,css,postgresql,git,linux,docker,django,fastapi,react,bootstrap,tailwind,tensorflow,pytorch&theme=dark" />
