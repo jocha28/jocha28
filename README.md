@@ -24,8 +24,11 @@ Toujours entre backend, Odoo, data science et exploration de nouveaux outils.
   <img src="https://skillicons.dev/icons?i=python,js,php,html,css,postgresql,git,linux,docker,django,fastapi,react,bootstrap,tailwind,tensorflow,pytorch&theme=dark" />
 </p>
 
+<!-- Odoo Versions -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Odoo-17/18/19-4D3A4C?style=for-the-badge&logo=odoo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Odoo-17-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Odoo-18-5A3C4A?style=for-the-badge&logo=odoo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Odoo-19-4B3240?style=for-the-badge&logo=odoo&logoColor=white" />
 </p>
 
 ---
@@ -33,6 +36,21 @@ Toujours entre backend, Odoo, data science et exploration de nouveaux outils.
 # GitHub Stats 
 
 <p align="center">
+  <!-- Main Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=jocha28&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="165" />
+  
+  <!-- Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jocha28&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<!-- More Stats Section -->
+<p align="center">
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jocha28&theme=tokyonight&layout=compact&hide_border=true" height="150" />
+
+  <!-- Contribution Graph -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jocha28&theme=tokyonight" height="150" />
+
+  <!-- Profile Summary -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jocha28&theme=tokyonight" />
 </p>
