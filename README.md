@@ -37,5 +37,9 @@ Toujours entre backend, Odoo, data science et exploration de nouveaux outils.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jocha28&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jocha28&theme=tokyonight&hide_border=true" height="165" />
+  <img 
+  src="https://streak-stats.demolab.com?user=jocha28&theme=tokyonight&hide_border=true" 
+  height="180" 
+/>
+
 </p>
