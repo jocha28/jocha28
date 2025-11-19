@@ -1,64 +1,96 @@
-# Hi, I'm José HOUNNAHO 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/5tzBf8U.gif" width="100%" />
+</p>
 
-Développeur informatique passionné, curieux et toujours en quête d’amélioration.  
-J’aime créer des solutions utiles, propres et scalables, tout en explorant continuellement de nouvelles technologies.
+<h1 align="center">Hi, I'm <strong>José HOUNNAHO</strong> 👋</h1>
 
-![jocha28's Stats](https://github-readme-stats.vercel.app/api?username=jocha28&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
----
-
-## 🚀 About Me
-
-- 💻 Développeur informatique basé au Bénin  
-- ⚙️ Expérience en développement back-end, front-end et Odoo  
-- 🧩 Esprit logique & orienté solution  
-- 🎮 Passionné de tech, jeux vidéo & software engineering  
-- 📚 Toujours en train d'apprendre pour level up mes skills
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=1AF7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Odoo+Developer+%28v17+-+v19%29;Tech+Enthusiast;Always+Learning+New+Things" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🌍 **About Me**
 
-[![My Skills](https://skillicons.dev/icons?i=python,php,js,vue,html,css,bootstrap,react,postgresql,git,docker,linux,odoo)](https://skillicons.dev)
+Passionné par le développement informatique, j’adore concevoir des solutions propres, utiles et performantes.  
+Toujours en évolution, toujours en quête de nouveaux défis.
 
-**Technologies maîtrisées :**
-- Python, JavaScript, PHP  
-- Vue.js, React, Bootstrap, Tailwind CSS  
-- HTML5 / CSS3  
-- PostgreSQL  
-- Docker / Linux  
-- Odoo **17**, **18**, **19** (développement de modules sur mesure)
+- 💻 Développeur informatique basé au **Bénin**  
+- ⚙️ Expérience solide en **back-end**, **front-end**, et **Odoo 17/18/19**  
+- 🎮 Fan de tech, jeux vidéo & software engineering  
+- 📚 Curieux, autonome et orienté solution  
 
 ---
 
-## 🌱 Currently Exploring
+## 🛠️ **Tech Stack & Tools**
 
-- React & Tailwind CSS  
-- Full-stack web development  
-- Odoo 18 & 19 (modules avancés)  
-- Optimisation PostgreSQL  
-- Automatisation & intégrations API
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,js,vue,react,html,css,tailwind,bootstrap,postgresql,git,docker,linux,odoo,vscode" />
+</p>
 
 ---
 
-## 🏆 Projects
+## ✨ **Badges**
 
-*(Tu pourras compléter avec tes repos GitHub)*
-
-- ✔️ Modules Odoo : Contract Management, Hospital Management, POS Extension  
-- ✔️ Scripts d’automatisation Python  
-- ✔️ Mini applications web (Vue.js, React)  
-- ✔️ Modules d’import CSV pour la comptabilité
-
----
-
-## 📬 Get in Touch
-
-- 🌍 GitHub : https://github.com/jocha28  
-- 📧 Email (optionnel, si tu veux l’ajouter)  
-- 💼 LinkedIn (optionnel aussi)
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Framework-Odoo-blueviolet?style=for-the-badge&logo=odoo" />
+  <img src="https://img.shields.io/badge/FrontEnd-React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
+  <img src="https://img.shields.io/badge/FrontEnd-Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=fff" />
+  <img src="https://img.shields.io/badge/DB-PostgreSQL-31648C?style=for-the-badge&logo=postgresql" />
+</p>
 
 ---
 
-Thanks for visiting! 🚀  
-Always learning, always building.
+## 🔥 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jocha28&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jocha28&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jocha28&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🌱 **Currently Exploring**
+
+- Full-stack development (React, Vue, Tailwind)  
+- Développement avancé Odoo (v17 à v19)  
+- PostgreSQL optimization  
+- Automatisation & intégrations API  
+- Docker workflows  
+
+---
+
+## 🏆 **Projects**
+
+*(Tu pourras ajouter tes projets ici quand tu pushes ton code)*
+
+- ✔️ Module Odoo : Contract Management  
+- ✔️ Module Odoo : Hospital Management  
+- ✔️ POS Extension & modules custom  
+- ✔️ Scripts Python d’automatisation  
+- ✔️ Mini apps front-end (React / Vue.js)
+
+---
+
+## 🤝 **Let's Connect**
+
+<p align="center">
+  <a href="https://github.com/jocha28"><img src="https://img.shields.io/badge/GitHub-jocha28-181717?style=for-the-badge&logo=github" /></a>
+  <a><img src="https://img.shields.io/badge/Email-Add%20Yours-red?style=for-the-badge&logo=gmail" /></a>
+  <a><img src="https://img.shields.io/badge/LinkedIn-Optional-blue?style=for-the-badge&logo=linkedin" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://i.imgur.com/hWgZ4fD.gif" width="200px" />
+</p>
+
+<p align="center"><strong>Thanks for visiting! 🚀  
+Always learning, always building.</strong></p>
