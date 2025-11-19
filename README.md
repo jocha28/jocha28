@@ -1,6 +1,6 @@
 <!-- TITLE -->
 <h1 align="center" style="color:#EAEAEA;">🌙 José HOUNNAHO</h1>
-<h3 align="center" style="color:#A0A0A0;">Full-Stack Developer • Odoo Expert • ML/DL Enthusiast</h3>
+<h3 align="center" style="color:#A0A0A0;">Full-Stack Developer • Odoo Develpper • ML/DL Developer</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
@@ -42,17 +42,9 @@ Toujours entre backend, Odoo, data science et exploration de nouveaux outils.
 
 ---
 
-# 📊 GitHub Stats (Dark Theme)
+# 📊 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jocha28&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jocha28&theme=tokyonight&hide_border=true" height="165" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="220" />
-</p>
-
-<p align="center" style="color:#A0A0A0;"><i>✨ Dark, clean & professional — Always learning, always building ✨</i></p>
