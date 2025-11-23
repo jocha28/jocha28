@@ -20,11 +20,12 @@ Entre data, automatisation et systèmes scalables, je construis propre et effica
 
 # Tech Stack
 
+### 🧰 Core Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,php,html,css,postgresql,git,linux,docker,django,fastapi,react,bootstrap,tailwind,tensorflow,pytorch&theme=dark" />
 </p>
 
-<!-- Data Science / ML -->
+### 📐 Data Science & Machine Learning
 <p align="center">
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -33,7 +34,7 @@ Entre data, automatisation et systèmes scalables, je construis propre et effica
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
-<!-- Odoo Versions -->
+### 🟣 Odoo Expertise
 <p align="center">
   <img src="https://img.shields.io/badge/Odoo-17-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
   <img src="https://img.shields.io/badge/Odoo-18-5A3C4A?style=for-the-badge&logo=odoo&logoColor=white" />
