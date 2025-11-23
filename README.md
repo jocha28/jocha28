@@ -22,7 +22,14 @@ Entre data, automatisation et systèmes scalables, je construis propre et effica
 
 ### 🧰 Core Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,php,html,css,postgresql,git,linux,docker,django,fastapi,react,bootstrap,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,php,html,css,postgresql,git,linux,docker,django,fastapi,react,bootstrap,tailwind,threejs,vite,flutter&theme=dark" />
+</p>
+
+<!-- Extra Badges (non présents sur skillicons) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </p>
 
 ### 📐 Data Science & Machine Learning
@@ -42,6 +49,7 @@ Entre data, automatisation et systèmes scalables, je construis propre et effica
   <img src="https://img.shields.io/badge/Odoo-18-5A3C4A?style=for-the-badge&logo=odoo&logoColor=white" />
   <img src="https://img.shields.io/badge/Odoo-19-4B3240?style=for-the-badge&logo=odoo&logoColor=white" />
 </p>
+
 
 
 ---
