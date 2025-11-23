@@ -22,11 +22,13 @@ Entre data, automatisation et systèmes scalables, je construis propre et effica
 
 ### 🧰 Core Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,php,html,css,postgresql,git,linux,docker,django,fastapi,react,bootstrap,tailwind,tensorflow,pytorch&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,php,html,css,postgresql,git,linux,docker,django,fastapi,react,bootstrap,tailwind&theme=dark" />
 </p>
 
 ### 📐 Data Science & Machine Learning
 <p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" />
@@ -40,6 +42,7 @@ Entre data, automatisation et systèmes scalables, je construis propre et effica
   <img src="https://img.shields.io/badge/Odoo-18-5A3C4A?style=for-the-badge&logo=odoo&logoColor=white" />
   <img src="https://img.shields.io/badge/Odoo-19-4B3240?style=for-the-badge&logo=odoo&logoColor=white" />
 </p>
+
 
 ---
 
