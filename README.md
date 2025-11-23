@@ -1,6 +1,6 @@
 <!-- TITLE -->
 <h1 align="center" style="color:#EAEAEA;">🌙 José HOUNNAHO 🦉</h1>
-<h3 align="center" style="color:#A0A0A0;">Full-Stack Developer • Odoo Developer • ML/DL Developer</h3>
+<h3 align="center" style="color:#A0A0A0;">Backend Developer • Odoo Developer • ML/DL Developer</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
@@ -11,9 +11,9 @@
 # About Me
 
 <p align="center" style="color:#CFCFCF; max-width:650px; margin:auto;">
-Développeur informatique basé au Bénin, passionné par la création d'applications propres,
-scalables et intelligentes.  
-Toujours entre backend, Odoo, data science et exploration de nouveaux outils.
+Développeur backend basé au Bénin, spécialisé en Odoo & architectures robustes.  
+Le frontend ? Présent quand il faut, mais toujours en deuxième ligne.  
+Entre data, automatisation et systèmes scalables, je construis propre et efficace.
 </p>
 
 ---
@@ -33,10 +33,9 @@ Toujours entre backend, Odoo, data science et exploration de nouveaux outils.
 
 ---
 
-# 📊 GitHub Stats 
+# GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jocha28&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jocha28&theme=tokyonight&hide_border=true" height="165" />
 </p>
-
