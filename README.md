@@ -20,7 +20,6 @@ Entre data, automatisation et systèmes scalables, je construis propre et effica
 
 # Tech Stack
 
-### 🧰 Core Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,php,html,css,postgresql,git,linux,docker,django,fastapi,react,bootstrap,tailwind,threejs,vite,flutter&theme=dark" />
 </p>
@@ -32,7 +31,6 @@ Entre data, automatisation et systèmes scalables, je construis propre et effica
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </p>
 
-### 📐 Data Science & Machine Learning
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -43,7 +41,7 @@ Entre data, automatisation et systèmes scalables, je construis propre et effica
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
-### 🟣 Odoo Expertise
+
 <p align="center">
   <img src="https://img.shields.io/badge/Odoo-17-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
   <img src="https://img.shields.io/badge/Odoo-18-5A3C4A?style=for-the-badge&logo=odoo&logoColor=white" />
@@ -54,18 +52,17 @@ Entre data, automatisation et systèmes scalables, je construis propre et effica
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jocha28&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jocha28&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
-### 🟢 Contributions Overview
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jocha28&theme=tokyo-night&hide_border=true" />
 </p>
 
-### 🌈 Monthly Language Usage
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jocha28&theme=tokyo_night" height="200"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jocha28&theme=tokyo_night" height="200"/>
