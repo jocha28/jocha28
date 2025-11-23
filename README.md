@@ -57,6 +57,20 @@ Entre data, automatisation et systèmes scalables, je construis propre et effica
 # 📊 GitHub Stats 
 
 <p align="center">
+  <!-- Stats globales -->
   <img src="https://github-readme-stats.vercel.app/api?username=jocha28&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="165" />
+
+  <!-- Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jocha28&theme=tokyonight&hide_border=true" height="165" />
 </p>
+
+<p align="center">
+  <!-- Langages les plus utilisés -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jocha28&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jocha28&theme=tokyo-night&hide_border=true" />
+</p>
+
