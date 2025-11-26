@@ -8,16 +8,6 @@
 
 ---
 
-# About Me
-
-<p align="center" style="color:#CFCFCF; max-width:650px; margin:auto;">
-Développeur backend basé au Bénin, spécialisé en Odoo & architectures robustes.  
-Le frontend ? Présent quand il faut, mais toujours en deuxième ligne.  
-Entre data, automatisation et systèmes scalables, je construis propre et efficace.
-</p>
-
----
-
 # Tech Stack
 
 <p align="center">
