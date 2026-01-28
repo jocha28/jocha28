@@ -1,7 +1,6 @@
 <!-- TITLE -->
-<h1 align="center">🦉 José HOUNNAHO | [![committers.top badge](https://user-badge.committers.top/benin_private/jocha28.svg)](https://user-badge.committers.top/benin_private/jocha28) </h1>
+<h1 align="center">🦉 José HOUNNAHO | <a href="https://user-badge.committers.top/benin_private/jocha28"><img src="https://user-badge.committers.top/benin_private/jocha28.svg" alt="committers.top badge" /></a></h1>
 <h3 align="center">Backend Developer • Odoo Developer • ML/DL Developer</h3>
-
 
 <p align="center">
   <img alt="Cute owl GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
