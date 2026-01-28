@@ -1,8 +1,7 @@
 <!-- TITLE -->
-<h1 align="center" style="color:#EAEAEA;">🌙  José HOUNNAHO 🦉</h1>
+<h1 align="center" style="color:#EAEAEA;">🦉 José HOUNNAHO | [![committers.top badge](https://user-badge.committers.top/benin_private/jocha28.svg)](https://user-badge.committers.top/benin_private/jocha28)</h1>
 <h3 align="center" style="color:#A0A0A0;">Backend Developer • Odoo Developer • ML/DL Developer</h3>
 
-[![committers.top badge](https://user-badge.committers.top/benin_private/jocha28.svg)](https://user-badge.committers.top/benin_private/jocha28)
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
