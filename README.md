@@ -1,10 +1,10 @@
 <!-- TITLE -->
-<h1 align="center" style="color:#EAEAEA;">🦉 José HOUNNAHO | [![committers.top badge](https://user-badge.committers.top/benin_private/jocha28.svg)](https://user-badge.committers.top/benin_private/jocha28) </h1>
-<h3 align="center" style="color:#A0A0A0;">Backend Developer • Odoo Developer • ML/DL Developer</h3>
+<h1 align="center">🦉 José HOUNNAHO | [![committers.top badge](https://user-badge.committers.top/benin_private/jocha28.svg)](https://user-badge.committers.top/benin_private/jocha28) </h1>
+<h3 align="center">Backend Developer • Odoo Developer • ML/DL Developer</h3>
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
+  <img alt="Cute owl GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
 </p>
 
 ---
@@ -40,7 +40,6 @@
 </p>
 
 
-
 ---
 
 ### GitHub Stats
@@ -48,7 +47,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jocha28&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="165" />
   <img src="https://streak-stats.demolab.com/?user=jocha28&theme=tokyonight&hide_border=true" height="165" />
 </p>
-
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jocha28&theme=tokyo-night&hide_border=true" />
@@ -58,5 +56,3 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jocha28&theme=tokyo_night" height="200"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jocha28&theme=tokyo_night" height="200"/>
 </p>
-
-
