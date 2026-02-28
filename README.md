@@ -37,21 +37,3 @@
   <img src="https://img.shields.io/badge/Odoo-18-5A3C4A?style=for-the-badge&logo=odoo&logoColor=white" />
   <img src="https://img.shields.io/badge/Odoo-19-4B3240?style=for-the-badge&logo=odoo&logoColor=white" />
 </p>
-
-
----
-
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jocha28&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=jocha28&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jocha28&theme=tokyo-night&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jocha28&theme=tokyo_night" height="200"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jocha28&theme=tokyo_night" height="200"/>
-</p>
