@@ -1,5 +1,5 @@
 <!-- TITLE -->
-<h1 align="center">🦉 José HOUNNAHO | <a href="https://user-badge.committers.top/benin_private/jocha28"><img src="https://user-badge.committers.top/benin_private/jocha28.svg" alt="committers.top private badge" /></a> </h1>
+<h1 align="center">🦉 José HOUNNAHO </h1>
 <h3 align="center">Backend Developer • Odoo Developer • ML/DL Developer</h3>
 
 <p align="center">
