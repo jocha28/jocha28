@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="380" viewBox="0 0 860 380" role="img" aria-label="Domaines : santé, fiscalité, paiement, langues">
+  <style>
+    .f { font-family: 'Space Grotesk','Inter','Segoe UI','Helvetica Neue',Arial,sans-serif; }
+    .m { font-family: 'JetBrains Mono','Fira Code',Consolas,'Liberation Mono',monospace; }
+    .num { font-size: 12px; letter-spacing: 3px; }
+    .ttl { font-size: 22px; font-weight: 800; fill: #f5f7fb; }
+    .txt { font-size: 13px; fill: #a3afc2; }
+    .kw { font-size: 11px; fill: #d7e0ee; }
+    .edge { stroke-dasharray: 90 1200; animation: run 7s linear infinite; }
+    .e2 { animation-delay: -1.75s; } .e3 { animation-delay: -3.5s; } .e4 { animation-delay: -5.25s; }
+    .card { opacity: 0; animation: in .7s ease-out forwards; }
+    .c2 { animation-delay: .15s; } .c3 { animation-delay: .3s; } .c4 { animation-delay: .45s; }
+    @keyframes run { to { stroke-dashoffset: -1290; } }
+    @keyframes in { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0e1424"/><stop offset="1" stop-color="#0a0e18"/>
+    </linearGradient>
+  </defs>
+
+  <!-- carte 1 -->
+  <g class="card">
+    <rect x="4" y="4" width="418" height="180" rx="16" fill="url(#bg)" stroke="#1f2a40" stroke-width="1.5"/>
+    <rect class="edge" x="4" y="4" width="418" height="180" rx="16" fill="none" stroke="#00e5ff" stroke-width="2.5" stroke-linecap="round"/>
+    <g transform="translate(36 38)"><rect x="-6" y="-16" width="32" height="32" rx="8" fill="#00e5ff" fill-opacity=".12"/><path d="M10 -10 V10 M0 0 H20" stroke="#00e5ff" stroke-width="4" stroke-linecap="round"/></g>
+    <text x="82" y="44" class="m num" fill="#00e5ff">01 / SANTÉ</text>
+    <text x="32" y="92" class="f ttl">Urgences augmentées</text>
+    <text x="32" y="118" class="f txt">Identifier un patient inconscient en quelques</text>
+    <text x="32" y="136" class="f txt">secondes, sécuriser les échanges médicaux.</text>
+    <text x="32" y="166" class="m kw">FastAPI · FaceNet · Expo · FHIR</text>
+  </g>
+
+  <!-- carte 2 -->
+  <g class="card c2">
+    <rect x="438" y="4" width="418" height="180" rx="16" fill="url(#bg)" stroke="#1f2a40" stroke-width="1.5"/>
+    <rect class="edge e2" x="438" y="4" width="418" height="180" rx="16" fill="none" stroke="#fcd116" stroke-width="2.5" stroke-linecap="round"/>
+    <g transform="translate(470 38)"><rect x="-6" y="-16" width="32" height="32" rx="8" fill="#fcd116" fill-opacity=".12"/><path d="M2 -9 H18 V9 H2 Z M6 -3 H14 M6 3 H11" stroke="#fcd116" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <text x="516" y="44" class="m num" fill="#fcd116">02 / FISCALITÉ</text>
+    <text x="466" y="92" class="f ttl">Facture normalisée</text>
+    <text x="466" y="118" class="f txt">Brancher Odoo sur les boîtiers fiscaux</text>
+    <text x="466" y="136" class="f txt">exigés par la DGI, jusqu'au driver.</text>
+    <text x="466" y="166" class="m kw">Odoo · MECEF · e-MCF · Go · CC300</text>
+  </g>
+
+  <!-- carte 3 -->
+  <g class="card c3">
+    <rect x="4" y="196" width="418" height="180" rx="16" fill="url(#bg)" stroke="#1f2a40" stroke-width="1.5"/>
+    <rect class="edge e3" x="4" y="196" width="418" height="180" rx="16" fill="none" stroke="#3ddc84" stroke-width="2.5" stroke-linecap="round"/>
+    <g transform="translate(36 230)"><rect x="-6" y="-16" width="32" height="32" rx="8" fill="#3ddc84" fill-opacity=".12"/><path d="M4 -10 H16 V10 H4 Z M8 6 H12" stroke="#3ddc84" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <text x="82" y="236" class="m num" fill="#3ddc84">03 / PAIEMENT</text>
+    <text x="32" y="284" class="f ttl">Mobile Money natif</text>
+    <text x="32" y="310" class="f txt">Encaisser partout comme on paie vraiment :</text>
+    <text x="32" y="328" class="f txt">ERP, boutiques en ligne, caisses.</text>
+    <text x="32" y="358" class="m kw">FedaPay · KkiaPay · MTN MoMo</text>
+  </g>
+
+  <!-- carte 4 -->
+  <g class="card c4">
+    <rect x="438" y="196" width="418" height="180" rx="16" fill="url(#bg)" stroke="#1f2a40" stroke-width="1.5"/>
+    <rect class="edge e4" x="438" y="196" width="418" height="180" rx="16" fill="none" stroke="#ff2e63" stroke-width="2.5" stroke-linecap="round"/>
+    <g transform="translate(470 230)"><rect x="-6" y="-16" width="32" height="32" rx="8" fill="#ff2e63" fill-opacity=".12"/><path d="M2 -8 H18 V5 H9 L4 10 V5 H2 Z" stroke="#ff2e63" stroke-width="2.5" fill="none" stroke-linejoin="round"/></g>
+    <text x="516" y="236" class="m num" fill="#ff2e63">04 / LANGUES</text>
+    <text x="466" y="284" class="f ttl">La machine parle fongbè</text>
+    <text x="466" y="310" class="f txt">Chatbot et assistant vocal français ⇄ fongbè</text>
+    <text x="466" y="328" class="f txt">pour ceux que la tech oublie.</text>
+    <text x="466" y="358" class="m kw">NLP · speech · Python · JS</text>
+  </g>
+</svg>
