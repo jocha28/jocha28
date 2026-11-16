@@ -1,39 +1,134 @@
-<!-- TITLE -->
-<h1 align="center">🦉 José HOUNNAHO </h1>
-<h3 align="center">Backend Developer • Odoo Developer • ML/DL Developer</h3>
+<p align="center">
+  <img src="assets/boot.svg" alt="JOCHA OS : séquence de démarrage" width="100%" />
+</p>
 
 <p align="center">
-  <img alt="Cute owl GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
+  <b>José HOUNNAHO</b> · développeur backend, Odoo &amp; IA · Cotonou 🇧🇯<br/>
+  <sub>Je code les briques qui manquent pour que le logiciel marche <i>vraiment</i> au Bénin.</sub>
 </p>
 
 ---
 
-# Tech Stack
+### `$ cat whoami.py`
+
+```python
+from odoo import models, fields
+
+
+class Jocha(models.Model):
+    _name = "dev.cotonou"
+    _description = "Le hibou qui code la nuit 🦉"
+
+    name     = fields.Char(default="José HOUNNAHO")
+    alias    = fields.Char(default="JOCHA")
+    location = fields.Char(default="Cotonou, Bénin 🇧🇯")
+    roles    = fields.Selection([
+        ("backend", "Backend Developer"),
+        ("odoo",    "Odoo Developer (17 · 18 · 19)"),
+        ("ml",      "ML / DL Developer"),
+        ("artist",  "Rap / trap tech, la face B"),
+    ])
+    mission  = fields.Text(default="""
+        Facturer selon la DGI, encaisser en Mobile Money,
+        soigner plus vite aux urgences, parler fɔ̀ngbè à la machine.
+    """)
+
+    def action_now(self):
+        return "Construire des outils africains, pour des usages africains."
+```
+
+---
+
+### 🗺️ Les terrains de jeu
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🏥 Santé & urgences**<br/>
+<sub>Identifier un patient inconscient en quelques secondes grâce à la biométrie faciale, et garder les échanges médicaux sécurisés.</sub><br/><br/>
+▸ <a href="https://github.com/jocha28/SecureHealth-Net"><code>SecureHealth-Net</code></a> messagerie interne chiffrée et supervision réseau<br/>
+▸ <code>biomed-urgences-benin</code> FastAPI · FaceNet · Expo · FHIR <sub>(🔒 en cours)</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**🧾 Fiscalité & normalisation**<br/>
+<sub>Brancher Odoo sur les machines de facturation normalisée exigées par la DGI.</sub><br/><br/>
+▸ <a href="https://github.com/jocha28/extend-eltrade-cc300-driver-odoo-linux"><code>eltrade-cc300-driver</code></a> driver Go du boîtier fiscal Eltrade CC300<br/>
+▸ modules Odoo MECEF / e-MCF, factures et avoirs normalisés
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**💸 Paiement & commerce**<br/>
+<sub>Le Mobile Money comme moyen de paiement natif, partout.</sub><br/><br/>
+▸ intégrations Odoo <b>FedaPay</b>, <b>KkiaPay</b>, <b>MTN MoMo</b><br/>
+▸ <code>jocha-shop</code> boutiques en ligne pour commerçants béninois, assistant vocal en fɔ̀ngbè <sub>(🔒 en cours)</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**🗣️ Langues & expériences**<br/>
+<sub>Quand la tech parle nos langues, ou se visite en 3D.</sub><br/><br/>
+▸ <a href="https://github.com/jocha28/chatbot-fr-fon"><code>chatbot-fr-fon</code></a> chatbot français ⇄ fɔ̀ngbè<br/>
+▸ <a href="https://github.com/jocha28/The-Linux-File-System-Odyssey"><code>Linux-File-System-Odyssey</code></a> le système de fichiers Linux en galaxie 3D
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🧰 La caisse à outils
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,php,html,css,postgresql,git,linux,docker,django,fastapi,react,bootstrap,tailwind,threejs,vite,flutter&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgresql,docker,linux,go,ts,js,react,vite,tailwind,threejs,flutter,git&perline=15&theme=dark" />
 </p>
 
-<!-- Extra Badges (non présents sur skillicons) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Odoo-17%20·%2018%20·%2019-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/FedaPay-0a0f19?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/KkiaPay-0a0f19?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MTN%20MoMo-FFCC00?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/DGI%20Bénin-MECEF-008751?style=for-the-badge" />
+</p>
+
+---
+
+### 🎧 Face B
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Odoo-17-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Odoo-18-5A3C4A?style=for-the-badge&logo=odoo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Odoo-19-4B3240?style=for-the-badge&logo=odoo&logoColor=white" />
+  <a href="https://github.com/jocha28/platerforme_creator_jocha_1">
+    <img src="assets/faceb.svg" alt="Face B : JOCHA, rap / trap tech" width="100%" />
+  </a>
+</p>
+
+<p align="center"><sub>Le jour des modules Odoo, la nuit des instrus. La plateforme musicale est open source, clique sur le vinyle.</sub></p>
+
+---
+
+### 🐍 Le serpent mange mes commits
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jocha28/jocha28/output/snake-dark.svg" />
+    <img alt="Serpent qui mange la grille de contributions" src="https://raw.githubusercontent.com/jocha28/jocha28/output/snake.svg" />
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <code>🦉 ✕ 🐾</code><br/>
+  <sub>Un projet Odoo, une intégration Mobile Money, une idée un peu folle ? Ouvre une issue sur un de mes dépôts, je réponds.</sub>
 </p>

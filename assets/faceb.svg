@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="150" viewBox="0 0 860 150" role="img" aria-label="Face B : JOCHA, rap / trap tech">
+  <style>
+    .f { font-family: 'JetBrains Mono','Fira Code',Consolas,'Liberation Mono',monospace; }
+    .t1 { font-size: 11px; letter-spacing: 3px; fill: #8b97a8; }
+    .t2 { font-size: 26px; font-weight: 800; letter-spacing: 6px; fill: #f2f5fa; }
+    .t3 { font-size: 13px; fill: #7cc4ff; }
+    .t4 { font-size: 11px; fill: #6b7a90; }
+    .eq rect { transform-box: fill-box; transform-origin: center bottom; animation: eq 1.2s ease-in-out infinite alternate; }
+    .eq rect:nth-child(3n)   { animation-duration: .8s; }
+    .eq rect:nth-child(3n+1) { animation-duration: 1.05s; animation-delay: -.4s; }
+    .eq rect:nth-child(4n)   { animation-duration: .65s; animation-delay: -.2s; }
+    .eq rect:nth-child(5n+2) { animation-duration: 1.4s; animation-delay: -.7s; }
+    .disc { transform-box: fill-box; transform-origin: center; animation: spin 4s linear infinite; }
+    .prog { transform-box: fill-box; transform-origin: left center; animation: prog 30s linear infinite; }
+    @keyframes eq { from { transform: scaleY(.15); } to { transform: scaleY(1); } }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    @keyframes prog { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+  </style>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#008751"/>
+      <stop offset=".5" stop-color="#fcd116"/>
+      <stop offset="1" stop-color="#e8112d"/>
+    </linearGradient>
+    <linearGradient id="geq" gradientUnits="userSpaceOnUse" x1="560" y1="0" x2="834" y2="0">
+      <stop offset="0" stop-color="#008751"/>
+      <stop offset=".5" stop-color="#fcd116"/>
+      <stop offset="1" stop-color="#e8112d"/>
+    </linearGradient>
+    <clipPath id="c"><rect width="860" height="150" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="860" height="150" fill="#0d1320"/>
+
+    <!-- vinyle -->
+    <g class="disc">
+      <circle cx="80" cy="75" r="50" fill="#05080e"/>
+      <circle cx="80" cy="75" r="42" fill="none" stroke="#1b2536" stroke-width="1"/>
+      <circle cx="80" cy="75" r="34" fill="none" stroke="#1b2536" stroke-width="1"/>
+      <circle cx="80" cy="75" r="18" fill="url(#g)"/>
+      <circle cx="80" cy="75" r="3" fill="#05080e"/>
+      <path d="M80 27 a48 48 0 0 1 40 22" stroke="#ffffff" stroke-opacity=".18" stroke-width="4" fill="none" stroke-linecap="round"/>
+    </g>
+
+    <g class="f">
+      <text x="152" y="44" class="t1">FACE B · EN LECTURE</text>
+      <text x="152" y="78" class="t2">JOCHA</text>
+      <text x="152" y="102" class="t3">rap / trap tech · beats codés à Cotonou</text>
+    </g>
+
+    <!-- egaliseur -->
+    <g class="eq" fill="url(#geq)">
+      <rect x="560" y="30" width="8" height="80" rx="3"/><rect x="574" y="30" width="8" height="80" rx="3"/>
+      <rect x="588" y="30" width="8" height="80" rx="3"/><rect x="602" y="30" width="8" height="80" rx="3"/>
+      <rect x="616" y="30" width="8" height="80" rx="3"/><rect x="630" y="30" width="8" height="80" rx="3"/>
+      <rect x="644" y="30" width="8" height="80" rx="3"/><rect x="658" y="30" width="8" height="80" rx="3"/>
+      <rect x="672" y="30" width="8" height="80" rx="3"/><rect x="686" y="30" width="8" height="80" rx="3"/>
+      <rect x="700" y="30" width="8" height="80" rx="3"/><rect x="714" y="30" width="8" height="80" rx="3"/>
+      <rect x="728" y="30" width="8" height="80" rx="3"/><rect x="742" y="30" width="8" height="80" rx="3"/>
+      <rect x="756" y="30" width="8" height="80" rx="3"/><rect x="770" y="30" width="8" height="80" rx="3"/>
+      <rect x="784" y="30" width="8" height="80" rx="3"/><rect x="798" y="30" width="8" height="80" rx="3"/>
+      <rect x="812" y="30" width="8" height="80" rx="3"/><rect x="826" y="30" width="8" height="80" rx="3"/>
+    </g>
+
+    <!-- progression -->
+    <rect x="152" y="120" width="682" height="3" rx="1.5" fill="#1e2a3d"/>
+    <rect class="prog" x="152" y="120" width="682" height="3" rx="1.5" fill="#3ddc84"/>
+    <text x="152" y="140" class="f t4">00:28</text>
+    <text x="834" y="140" text-anchor="end" class="f t4">∞</text>
+  </g>
+</svg>
