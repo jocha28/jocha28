@@ -47,7 +47,7 @@ class Jocha(models.Model):
 
 **🏥 Santé & urgences**<br/>
 <sub>Identifier un patient inconscient en quelques secondes grâce à la biométrie faciale, et garder les échanges médicaux sécurisés.</sub><br/><br/>
-▸ <a href="https://github.com/jocha28/SecureHealth-Net"><code>SecureHealth-Net</code></a> messagerie interne chiffrée et supervision réseau<br/>
+▸ <code>SecureHealth-Net</code> messagerie interne chiffrée et supervision réseau<br/>
 ▸ <code>biomed-urgences-benin</code> FastAPI · FaceNet · Expo · FHIR <sub>(🔒 en cours)</sub>
 
 </td>
@@ -55,7 +55,7 @@ class Jocha(models.Model):
 
 **🧾 Fiscalité & normalisation**<br/>
 <sub>Brancher Odoo sur les machines de facturation normalisée exigées par la DGI.</sub><br/><br/>
-▸ <a href="https://github.com/jocha28/extend-eltrade-cc300-driver-odoo-linux"><code>eltrade-cc300-driver</code></a> driver Go du boîtier fiscal Eltrade CC300<br/>
+▸ <code>eltrade-cc300-driver</code> driver Go du boîtier fiscal Eltrade CC300<br/>
 ▸ modules Odoo MECEF / e-MCF, factures et avoirs normalisés
 
 </td>
@@ -73,8 +73,8 @@ class Jocha(models.Model):
 
 **🗣️ Langues & expériences**<br/>
 <sub>Quand la tech parle nos langues, ou se visite en 3D.</sub><br/><br/>
-▸ <a href="https://github.com/jocha28/chatbot-fr-fon"><code>chatbot-fr-fon</code></a> chatbot français ⇄ fɔ̀ngbè<br/>
-▸ <a href="https://github.com/jocha28/The-Linux-File-System-Odyssey"><code>Linux-File-System-Odyssey</code></a> le système de fichiers Linux en galaxie 3D
+▸ <code>chatbot-fr-fon</code> chatbot français ⇄ fɔ̀ngbè<br/>
+▸ <code>Linux-File-System-Odyssey</code> le système de fichiers Linux en galaxie 3D
 
 </td>
 </tr>
@@ -108,12 +108,10 @@ class Jocha(models.Model):
 ### 🎧 Face B
 
 <p align="center">
-  <a href="https://github.com/jocha28/platerforme_creator_jocha_1">
-    <img src="assets/faceb.svg" alt="Face B : JOCHA, rap / trap tech" width="100%" />
-  </a>
+  <img src="assets/faceb.svg" alt="Face B : JOCHA, rap / trap tech" width="100%" />
 </p>
 
-<p align="center"><sub>Le jour des modules Odoo, la nuit des instrus. La plateforme musicale est open source, clique sur le vinyle.</sub></p>
+<p align="center"><sub>Le jour des modules Odoo, la nuit des instrus.</sub></p>
 
 ---
 
@@ -130,5 +128,5 @@ class Jocha(models.Model):
 
 <p align="center">
   <code>🦉 ✕ 🐾</code><br/>
-  <sub>Un projet Odoo, une intégration Mobile Money, une idée un peu folle ? Ouvre une issue sur un de mes dépôts, je réponds.</sub>
+  <sub>Un projet Odoo, une intégration Mobile Money, une idée un peu folle ? Écris-moi, je réponds.</sub>
 </p>
